@@ -1,9 +1,1 @@
-# satellite-agent
-低轨卫星智能体互连
-<<<<<<< HEAD
-
-测试一下pull
-=======
-=======
-让低轨卫星从"被动执行地面指令的终端"变成感知—决策—执行闭环的自主智能体，并通过星间链路把多个智能体连成可协同规划的集群——地面站从"指挥官"退位为"监督员"。
->>>>>>> parent of c2a4960 (Update README with project introduction)
+测试revert
